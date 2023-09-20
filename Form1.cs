@@ -10,6 +10,23 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp1
 {
+    /// <summary>
+    /// ////////////a
+    /// sdasd
+    /// as
+    /// fafasf
+    /// a
+    /// f
+    /// as
+    /// f
+    /// a
+    /// f
+    /// as
+    /// f
+    /// a
+    /// fas
+    /// 
+    /// </summary>
     public partial class Form1 : Form
     {
         public Form1()
